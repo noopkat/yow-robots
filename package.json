@@ -1,0 +1,24 @@
+{
+  "name": "yow-robots",
+  "version": "1.0.0",
+  "description": "heck yeah javascript robots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "node setup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noopkat/yow-robots.git"
+  },
+  "author": "Suz Hinton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noopkat/yow-robots/issues"
+  },
+  "homepage": "https://github.com/noopkat/yow-robots#readme",
+  "dependencies": {
+    "avrgirl-arduino": "*",
+    "johnny-five": "*"
+  }
+}
