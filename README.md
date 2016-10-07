@@ -167,3 +167,5 @@ For the rest of the day, we're going to be freestyling! You're open to explore y
 Check out both the [API](http://johnny-five.io/api/) and [Examples](http://johnny-five.io/examples/) sections of the Johnny-Five website to learn how to use all of the pieces in your Arduino kit. If you like, you can make a new file for each component, or mash everything together into a single file. It's up to you.
 
 I'm here to help you when you get stuck, and we're all here to share things we learn along the way and admire what everyone comes up with :heart:
+
+If you have a few minutes to spare, it would be much appreciated if you could fill out the following survey to provide us with feedback on what you thought of the workshop: https://goo.gl/forms/dsIlKXBLrr9FPa602
