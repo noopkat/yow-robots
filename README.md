@@ -113,7 +113,7 @@ Once it starts up, try typing `led.off()` in the command line. What happens? try
 
 ### Bonus round!
 
-Try to get your LED to [*strobe*](http://johnny-five.io/api/led/#api), rather than blink. What changes are needed to make this happen?
+Try to get your LED to [*pulse*](http://johnny-five.io/api/led/#api), rather than blink. What changes are needed to make this happen?
 
 ## Using sensors ('inputs')
 
